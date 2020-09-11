@@ -1,4 +1,4 @@
-# digit_recognition_with_ANN
+# Portfolio-Digit-Recognition-with-ANN
 
 This notebook contains implementation of artificial neural network for classical problem of handwritten digit recognition using plain python without any neural network libraries.
 The dataset is the MNIST dataset with 60000 training examples and 10000 test examples. Each training and test example is the grey-scaled image of 28x28 pixels.
