@@ -5,4 +5,8 @@ The dataset is the MNIST dataset with 60000 training examples and 10000 test exa
 Using two hidden layers, the accuracy on the test set of 97.35% achieved over the training through 60 epochs with mini-batch size of 10 samples and sigmoids as activation function in each layer
 Cost function - root mean square error, activation functions - sigmoid.
 
-To run the code, download all files to the same directory and run "main" in jupyter notebook.
+To run the code
+- download "main" notebook form this repository
+- download the classical handwritten digits MNIST datasets from here:
+http://yann.lecun.com/exdb/mnist/
+- unpack all 4 files to the same directoru where you put "main" notebook
