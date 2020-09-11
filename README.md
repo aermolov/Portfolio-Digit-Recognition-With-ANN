@@ -7,6 +7,6 @@ Cost function - root mean square error, activation functions - sigmoid.
 
 To run the code
 - download "main" notebook form this repository
-- download the classical handwritten digits MNIST datasets from here:
+- download the classical handwritten digits MNIST datasets from:
 http://yann.lecun.com/exdb/mnist/
 - unpack all 4 files to the same directoru where you put "main" notebook
