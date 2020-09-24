@@ -17,21 +17,21 @@
 * Mini-batch size for stochastic gradient descent 10
 * Learning rate 0.1
 * Regularization parameter 4
-* Training over 60 epochs
-*Accuracy for test set. Epoch 46: 9738 / 10000
-Accuracy for test set. Epoch 47: 9707 / 10000
-Accuracy for test set. Epoch 48: 9715 / 10000
-Accuracy for test set. Epoch 49: 9725 / 10000
-Accuracy for test set. Epoch 50: 9734 / 10000
-Accuracy for test set. Epoch 51: 9739 / 10000
-Accuracy for test set. Epoch 52: 9734 / 10000
-Accuracy for test set. Epoch 53: 9720 / 10000
-Accuracy for test set. Epoch 54: 9738 / 10000
-Accuracy for test set. Epoch 55: 9721 / 10000
-Accuracy for test set. Epoch 56: 9750 / 10000
-Accuracy for test set. Epoch 57: 9743 / 10000
-Accuracy for test set. Epoch 58: 9739 / 10000
-Accuracy for test set. Epoch 59: 9735 / 10000*
+* Training over 60 epochs\
+*Accuracy for test set. Epoch 46: 9738 / 10000\
+Accuracy for test set. Epoch 47: 9707 / 10000\
+Accuracy for test set. Epoch 48: 9715 / 10000\
+Accuracy for test set. Epoch 49: 9725 / 10000\
+Accuracy for test set. Epoch 50: 9734 / 10000\
+Accuracy for test set. Epoch 51: 9739 / 10000\
+Accuracy for test set. Epoch 52: 9734 / 10000\
+Accuracy for test set. Epoch 53: 9720 / 10000\
+Accuracy for test set. Epoch 54: 9738 / 10000\
+Accuracy for test set. Epoch 55: 9721 / 10000\
+Accuracy for test set. Epoch 56: 9750 / 10000\
+Accuracy for test set. Epoch 57: 9743 / 10000\
+Accuracy for test set. Epoch 58: 9739 / 10000\
+Accuracy for test set. Epoch 59: 9735 / 10000*\
 
 To run the code
 - Download "main" notebook form this repository
