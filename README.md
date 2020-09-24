@@ -15,12 +15,12 @@
 * Cost function "Cross-entropy"
 * Activation of the hidden layers "Sigmoid", activation of the output layer "Softmax"
 * Mini-batch size for stochastic gradient descent 10
-* learning rate 0.1
+* Learning rate 0.1
 * Regularization parameter 4
 * Training over 60 epochs
 
 To run the code
-- download "main" notebook form this repository
-- download the classical handwritten digits MNIST datasets from:
+- Download "main" notebook form this repository
+- Download the classical handwritten digits MNIST datasets from:
 http://yann.lecun.com/exdb/mnist/
-- unpack all 4 files to the same directory where you have "main" notebook
+- Unpack all 4 files to the same directory where you have "main" notebook
