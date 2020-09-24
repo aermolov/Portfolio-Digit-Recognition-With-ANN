@@ -33,6 +33,8 @@ Accuracy for test set. Epoch 57: 9743 / 10000\
 Accuracy for test set. Epoch 58: 9739 / 10000\
 Accuracy for test set. Epoch 59: 9735 / 10000*
 
+## Cost function and accuracy graphs are also attached
+
 To run the code
 - Download "main" notebook form this repository
 - Download the classical handwritten digits MNIST datasets from:
