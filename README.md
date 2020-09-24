@@ -31,7 +31,7 @@ Accuracy for test set. Epoch 55: 9721 / 10000\
 Accuracy for test set. Epoch 56: 9750 / 10000\
 Accuracy for test set. Epoch 57: 9743 / 10000\
 Accuracy for test set. Epoch 58: 9739 / 10000\
-Accuracy for test set. Epoch 59: 9735 / 10000*\
+Accuracy for test set. Epoch 59: 9735 / 10000*
 
 To run the code
 - Download "main" notebook form this repository
